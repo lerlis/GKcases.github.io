@@ -104,7 +104,7 @@ def page_base(case_list, count_dict):
         map_base(count_dict),
         table_base(case_list)
     )
-    own_page.render('all_in.html')
+    own_page.render('./docs/all_in.html')
 
 def read_json(path):
     with open(path, "r", encoding='utf-8') as f:
