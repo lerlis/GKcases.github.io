@@ -4,67 +4,127 @@
             "Place":"北京",
             "Type":"选调",
             "Date1":"9月25日至9月29日",
-            "Date2":"10月20日 星期日 上午"
+            "Date2":"10月20日 星期日 上午",
+            "Comment":"None",
+            "Links":{
+                "text": "北京市2025年度定向选调和“优培计划”招聘",
+                "URL":"https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/t20240919_3894681.html"
+            }
         },
         {
             "Place":"上海",
             "Type":"选调",
             "Date1":"9月18日至9月30日",
-            "Date2":"11月16日在上海、北京两地同步进行"
+            "Date2":"11月16日在上海、北京两地同步进行",
+            "Comment":"None",
+            "Links":{
+                "text": "报名网站",
+                "URL":"https://www.shacs.gov.cn/Link/2025031xd.htm"
+            }
         },
         {
             "Place":"浙江",
             "Type":"选调",
             "Date1":"10月9日至10月17日",
-            "Date2":"11月10日上午"
+            "Date2":"11月10日上午",
+            "Comment":"None",
+            "Links":{
+                "text": "浙江选调生报考专栏",
+                "URL":"http://xd.zjks.com"
+            }
         },
         {
             "Place":"黑龙江",
             "Type":"选调",
             "Date1":"9月4日至9月24日",
-            "Date2":"暂定10月下旬"
+            "Date2":"暂定10月下旬",
+            "Comment":"None",
+            "Links":{
+                "text": "黑龙江省2025年度定向选调应届优秀大学毕业生考试",
+                "URL":"https://gongxuan.ljxfw.gov.cn/index.php/Homes/News/content/cid/207/newid/418.html"
+            }
         },
         {
             "Place":"甘肃",
             "Type":"选调",
             "Date1":"10月14日至11月4日",
-            "Date2":"11月16日 星期六 上午"
+            "Date2":"11月16日 星期六 上午",
+            "Comment":"None",
+            "Links":{
+                "text": "甘肃组工网",
+                "URL":"http://www.gszg.gov.cn"
+            }
         },
         {
             "Place":"四川",
             "Type":"选调",
             "Date1":"10月9日至10月15日",
-            "Date2":"10月26日"
+            "Date2":"10月26日",
+            "Comment":"None",
+            "Links":{
+                "text": "四川人力资源和社会保障厅“人事考试”专栏",
+                "URL":"https://scpta.com.cn/"
+            }
         },
         {
             "Place":"重庆",
             "Type":"选调",
             "Date1":"10月14日至10月18日",
-            "Date2":"11月3日"
+            "Date2":"11月3日",
+            "Comment":"None",
+            "Links":{
+                "text": "七一网选调生考试报名系统",
+                "URL":"http://www.12371.gov.cn"
+            }
         },
         {
             "Place":"辽宁",
             "Type":"选调",
             "Date1":"10月10日9:00至10月25日",
-            "Date2":"拟于11月上中旬进行"
+            "Date2":"拟于11月上中旬进行",
+            "Comment":"None",
+            "Links":{
+                "text": "报名系统",
+                "URL":"https://ln.bmpta.com/dxxds2025/WebRegister/default.aspx"
+            }
         },
         {
             "Place":"山东",
             "Type":"选调",
             "Date1":"10月9日9:00至10月17日16:00",
-            "Date2":"10月27日，地点设在校内或高校所在城市"
+            "Date2":"10月27日，地点设在校内或高校所在城市",
+            "Comment":"None",
+            "Links":{
+                "text": "灯塔—党建在线",
+                "URL":"http://www.dtdjzx.gov.cn/"
+            }
         },
         {
             "Place":"吉林",
             "Type":"选调",
             "Date1":"10月11日8:30至10月18日16:00",
-            "Date2":"11月8日 星期五 下午"
+            "Date2":"11月8日 星期五 下午",
+            "Comment":"None",
+            "Links":{
+                "text": "吉林公务员考试网",
+                "URL":"http://www.jlgwyks.cn"
+            }
         },
         {
             "Place":"北京",
             "Type":"审计署（国考）",
             "Date1":"10月15日—20日",
-            "Date2":"None"
+            "Date2":"None",
+            "Comment":"None",
+            "Links":{}
+        },
+        {
+            "Place":"广东",
+            "Type":"广州第六中学优才计划",
+            "Date1":"10月12日至10月17日",
+            "Date2":"10月18日至19日之间面试，20日笔试",
+            "Comment":"16-17日有宣讲会",
+            "Links":{}
         }
     ]
 }

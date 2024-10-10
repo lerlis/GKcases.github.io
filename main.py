@@ -47,7 +47,7 @@ NAME_MAP_DATA = {
 
 def table_base(case_list) -> Table:
     table1 = Table()
-    headers = ['省份', '类别','报名时间', '考试时间']
+    headers = ['省份', '类别','报名时间', '考试时间','备注','链接']
     rows = []
     for case in case_list:
         single_row = []
@@ -55,12 +55,24 @@ def table_base(case_list) -> Table:
         single_row.append(case.get("Type"))
         single_row.append(case.get("Date1"))
         single_row.append(case.get("Date2"))
+        single_row.append(case.get("Comment"))
+        single_row.append(get_links(case.get("Links")))
+
         rows.append(single_row)
     table1.add(headers, rows)
     table1.set_global_opts(
         title_opts=opts.ComponentTitleOpts(title="形式一览表", subtitle="各种类别都可以放进来")
+        
     )
     return table1
+
+def get_links(link_dict):
+    text = link_dict.get("text")
+    url = link_dict.get("URL")
+    # HTML语言封装
+    html_code = ''
+    html_code += f'<a href="{url}">{text}</a>'
+    return html_code
 
 
 def map_base(count_dict) -> Map:
@@ -119,6 +131,17 @@ def read_json(path):
             count_dict[place] = 1
     return case_list, count_dict
 
+def pudding(html_path):
+    with open(html_path, "r", encoding='utf-8') as f:
+        html_content = f.read()
+    f.close()
+    modified_html = html_content.replace('&lt;a', '<a')
+    modified_html = modified_html.replace('&lt;/a&gt;', '</a>')
+    modified_html = modified_html.replace('&quot;', '"')
+    modified_html = modified_html.replace('&gt;', '>')
+    with open(html_path, "w", encoding='utf-8') as f2:
+        f2.write(modified_html)
+    f2.close()
 
 if __name__ == "__main__":
     path = './data.json'
@@ -126,3 +149,5 @@ if __name__ == "__main__":
     # print(case_list)
     # print(count_dict)
     page_base(case_list, count_dict)
+    html_path = './docs/all_in.html'
+    pudding(html_path)
