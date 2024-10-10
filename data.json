@@ -7,7 +7,7 @@
             "Date2":"10月20日 星期日 上午",
             "Comment":"None",
             "Links":{
-                "text": "北京市2025年度定向选调和“优培计划”招聘",
+                "text": "北京市2025年度定向选调和“优培计划”",
                 "URL":"https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/t20240919_3894681.html"
             }
         },
@@ -15,7 +15,7 @@
             "Place":"上海",
             "Type":"选调",
             "Date1":"9月18日至9月30日",
-            "Date2":"11月16日在上海、北京两地同步进行",
+            "Date2":"11月16日",
             "Comment":"None",
             "Links":{
                 "text": "报名网站",
@@ -40,7 +40,7 @@
             "Date2":"暂定10月下旬",
             "Comment":"None",
             "Links":{
-                "text": "黑龙江省2025年度定向选调应届优秀大学毕业生考试",
+                "text": "黑龙江2025定向选调",
                 "URL":"https://gongxuan.ljxfw.gov.cn/index.php/Homes/News/content/cid/207/newid/418.html"
             }
         },
@@ -62,7 +62,7 @@
             "Date2":"10月26日",
             "Comment":"None",
             "Links":{
-                "text": "四川人力资源和社会保障厅“人事考试”专栏",
+                "text": "四川人力社保“人事考试”专栏",
                 "URL":"https://scpta.com.cn/"
             }
         },
@@ -121,9 +121,9 @@
         {
             "Place":"广东",
             "Type":"广州第六中学优才计划",
-            "Date1":"10月12日至10月17日",
-            "Date2":"10月18日至19日之间面试，20日笔试",
-            "Comment":"16-17日有宣讲会",
+            "Date1":"10月12日至17日",
+            "Date2":"10月18-19日之间面试，20日笔试",
+            "Comment":"16-17宣讲会",
             "Links":{}
         }
     ]
