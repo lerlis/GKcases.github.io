@@ -125,6 +125,83 @@
             "Date2":"18-19日面试，20日笔试",
             "Comment":"16-17宣讲会",
             "Links":{}
+        },
+        {
+            "Place":"江苏",
+            "Type":"选调",
+            "Date1":"10月23日至10月29日",
+            "Date2":"11月9日",
+            "Comment":"None",
+            "Links":{
+                "text": "江苏人事考试网",
+                "URL":"https://jshrss.jiangsu.gov.cn/"
+            }
+        },
+        {
+            "Place":"安徽",
+            "Type":"选调",
+            "Date1":"10月17日至10月24日",
+            "Date2":"11月16日",
+            "Comment":"None",
+            "Links":{
+                "text": "安徽省人事考试网",
+                "URL":"https://www.apta.gov.cn/"
+            }
+        },
+        {
+            "Place":"内蒙",
+            "Type":"选调",
+            "Date1":"10月16日至25日",
+            "Date2":"11月上旬",
+            "Comment":"None",
+            "Links":{
+                "text": "内蒙古人事考试网",
+                "URL":"http://www.impta.com.cn/"
+            }
+        },
+        {
+            "Place":"贵州",
+            "Type":"选调",
+            "Date1":"10月15日至21-25日",
+            "Date2":"10月30日公布",
+            "Comment":"None",
+            "Links":{
+                "text": "贵州报名系统",
+                "URL":"https://zkecos.com/1728376600"
+            }
+        },
+        {
+            "Place":"江西",
+            "Type":"选调",
+            "Date1":"10月24日至10月30日",
+            "Date2":"另行通知",
+            "Comment":"None",
+            "Links":{
+                "text": "江西人事考试网",
+                "URL":"http://www.jxpta.com/"
+            }
+        },
+        {
+            "Place":"陕西",
+            "Type":"选调",
+            "Date1":"10月17日至10月27日",
+            "Date2":"另行通知",
+            "Comment":"None",
+            "Links":{
+                "text": "陕西先锋网",
+                "URL":"http://www.sxdyjy.cn/xds"
+            }
+        },
+        {
+            "Place":"北京",
+            "Type":"国考",
+            "Date1":"10月15日至10月24日",
+            "Date2":"12月1日",
+            "Comment":"None",
+            "Links":{
+                "text": "2025中央直属",
+                "URL":"http://bm.scs.gov.cn/kl2025"
+            }
         }
     ]
 }
