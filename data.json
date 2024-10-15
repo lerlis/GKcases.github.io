@@ -120,11 +120,14 @@
         },
         {
             "Place":"广东",
-            "Type":"广州第六中学",
+            "Type":"优才计划",
             "Date1":"10月12日至17日",
-            "Date2":"18-19日面试，20日笔试",
+            "Date2":"18-19日面试,20日笔试",
             "Comment":"16-17宣讲会",
-            "Links":{}
+            "Links":{ 
+                "text": "优才计划",
+                "URL":"https://www.qgsydw.com/qgsydw/recruit/insrecruit/20240920/134454.html"
+            }
         },
         {
             "Place":"江苏",
@@ -201,6 +204,17 @@
             "Links":{
                 "text": "2025中央直属",
                 "URL":"http://bm.scs.gov.cn/kl2025"
+            }
+        },
+        {
+            "Place":"广东",
+            "Type":"深圳福田教师",
+            "Date1":"10月15日-10月25日",
+            "Date2":"10月30日确认",
+            "Comment":"None",
+            "Links":{
+                "text": "深圳市福田区公办学校报名",
+                "URL":"https://bm.gd-pa.cn/wsbm/index/notice/sysContent?batchId=1844279905522679810&fcode=szft"
             }
         }
     ]
