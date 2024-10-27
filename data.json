@@ -216,6 +216,39 @@
                 "text": "深圳市福田区公办学校报名",
                 "URL":"https://bm.gd-pa.cn/wsbm/index/notice/sysContent?batchId=1844279905522679810&fcode=szft"
             }
+        },
+        {
+            "Place":"青海",
+            "Type":"选调",
+            "Date1":"10月21日至11月5日",
+            "Date2":"12月5日",
+            "Comment":"None",
+            "Links":{
+                "text": "青海省选调生报名",
+                "URL":"http://47.114.77.245/tip/"
+            }
+        },
+        {
+            "Place":"福建",
+            "Type":"引进生",
+            "Date1":"10月22日至11月11日",
+            "Date2":"11月中下旬",
+            "Comment":"None",
+            "Links":{
+                "text": "海纳百川人才网",
+                "URL":"http://fjhnbc.hxrc.com/yjs"
+            }
+        },
+        {
+            "Place":"福建",
+            "Type":"厦门双十",
+            "Date1":"10月28日至11月8日",
+            "Date2":"11月3日校测？",
+            "Comment":"None",
+            "Links":{
+                "text": "PC端地址",
+                "URL":"https://jszp.xmedu.cn/login.html#/"
+            }
         }
     ]
 }
