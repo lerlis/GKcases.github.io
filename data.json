@@ -249,6 +249,17 @@
                 "text": "PC端地址",
                 "URL":"https://jszp.xmedu.cn/login.html#/"
             }
+        },
+        {
+            "Place":"江苏",
+            "Type":"南京中华",
+            "Date1":"11月2日至11月6日",
+            "Date2":"11月16日",
+            "Comment":"None",
+            "Links":{
+                "text": "南京市教育局网",
+                "URL":"https://edu.nanjing.gov.cn/bsfw/zpzk/202410/t20241028_4994301.html"
+            }
         }
     ]
 }
