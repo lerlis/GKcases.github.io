@@ -260,6 +260,39 @@
                 "text": "南京市教育局网",
                 "URL":"https://edu.nanjing.gov.cn/bsfw/zpzk/202410/t20241028_4994301.html"
             }
+        },
+        {
+            "Place":"云南",
+            "Type":"选调",
+            "Date1":"11月4日—11月9日",
+            "Date2":"11月24日",
+            "Comment":"None",
+            "Links":{
+                "text": "云南考试专栏",
+                "URL":"http://hrss.yn.gov.cn/ynrsksw/Index.html"
+            }
+        },
+        {
+            "Place":"北京",
+            "Type":"中央选调",
+            "Date1":"10月28日至11月6日",
+            "Date2":"11月30日",
+            "Comment":"None",
+            "Links":{
+                "text": "2025中央选调",
+                "URL":"http://subb.scs.gov.cn/pp/gkweb/core/web/ui/business/home/lxhome.html"
+            }
+        },
+        {
+            "Place":"广东",
+            "Type":"深圳南山教师",
+            "Date1":"10月31日-11月9日",
+            "Date2":"11月16日",
+            "Comment":"武汉考点",
+            "Links":{
+                "text": "南山区公办中小学",
+                "URL":"https://www.sz.gov.cn/cn/xxgk/zfxxgj/rsxx/zkzp/content/post_11665956.html"
+            }
         }
     ]
 }
